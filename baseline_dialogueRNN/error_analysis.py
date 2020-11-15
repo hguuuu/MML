@@ -6,7 +6,7 @@ import numpy as np
 
 # https://seaborn.pydata.org/examples/spreadsheet_heatmap.html
 
-preds = pandas.read_csv('predictions.csv')
+preds = pandas.read_csv("prediction_emotion_output.csv")
 
 # % wrong for each emotion
 
@@ -90,8 +90,8 @@ f.savefig('fig1.png')
 timebins = []
 
 for iteration in preds.iterrows():
-    start = float(str.replace(iteration[1].tolist()[-2], ',', '.').split(":")[1])*60 + float(str.replace(iteration[1].tolist()[-2], ',', '.').split(":")[2])
-    end = float(str.replace(iteration[1].tolist()[-1], ',', '.').split(":")[1])*60 + float(str.replace(iteration[1].tolist()[-1], ',', '.').split(":")[2])
+    start = float(str.replace(iteration[1].tolist()[-3], ',', '.').split(":")[1])*60 + float(str.replace(iteration[1].tolist()[-3], ',', '.').split(":")[2])
+    end = float(str.replace(iteration[1].tolist()[-2], ',', '.').split(":")[1])*60 + float(str.replace(iteration[1].tolist()[-2], ',', '.').split(":")[2])
     timebins.append(end-start)
 
 new_preds = preds.copy()
