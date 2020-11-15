@@ -41,7 +41,7 @@ for emotion in emotions:
 
 f, ax = plt.subplots()
 sns.heatmap(final_arr, annot=True, ax=ax, xticklabels=emotions, yticklabels=emotions)
-f.savefig('fig.png')
+f.savefig('dialogueRNN_emotion_confusion_matrix.png')
 
 # % wrong for each sentiment
 
@@ -84,14 +84,14 @@ final_arr.append([neg_emotions[0]/z, neg_emotions[1]/z, neg_emotions[2]/z])
 
 f, ax = plt.subplots()
 sns.heatmap(final_arr, annot=True, ax=ax, xticklabels=sentiment, yticklabels=sentiment)
-f.savefig('fig1.png')
+f.savefig('dialogueRNN_sentiment_confusion_matrix.png')
 
 # % wrong for time bins, <2 seconds, <10 seconds, > 10
 timebins = []
 
-for iteration in preds.iterrows():
-    start = float(str.replace(iteration[1].tolist()[-3], ',', '.').split(":")[1])*60 + float(str.replace(iteration[1].tolist()[-3], ',', '.').split(":")[2])
-    end = float(str.replace(iteration[1].tolist()[-2], ',', '.').split(":")[1])*60 + float(str.replace(iteration[1].tolist()[-2], ',', '.').split(":")[2])
+for i, iteration in preds.iterrows():
+    start = float(str.replace(iteration.tolist()[-3], ',', '.').split(":")[1])*60 + float(str.replace(iteration.tolist()[-3], ',', '.').split(":")[2])
+    end = float(str.replace(iteration.tolist()[-2], ',', '.').split(":")[1])*60 + float(str.replace(iteration.tolist()[-2], ',', '.').split(":")[2])
     timebins.append(end-start)
 
 new_preds = preds.copy()
@@ -117,6 +117,7 @@ def time_wrong_calc(df, emotion):
 
 def time_wrong(time_low, time_high, fig):
     counts = defaultdict(int)
+    total_count = 0
     whole = list(new_preds[(new_preds['time_diff'] < time_high) & (new_preds['time_diff'] > time_low)]['Utterance'])
 
     arr = new_preds[(new_preds['time_diff'] < time_high) & (new_preds['time_diff'] > time_low)]
@@ -132,11 +133,17 @@ def time_wrong(time_low, time_high, fig):
             ct += oth[emo]
         final_arr.append(arr2)
         counts[emotion] = ct
+        total_count += ct
 
-    print(counts)
+    result_arr = []
+    for i in range(7):
+        print(final_arr[i], counts[emotions[i]])
+        result_arr.append(np.array(final_arr[i])/counts[emotions[i]])
+    print(counts, total_count)
+    print(result_arr)
 
     f, ax = plt.subplots()
-    sns.heatmap(final_arr, annot=True, ax=ax, xticklabels=emotions, yticklabels=emotions)
+    sns.heatmap(result_arr, annot=True, ax=ax, xticklabels=emotions, yticklabels=emotions)
     f.savefig(fig + '.png')
 
 time_wrong(0, 2, 'dialogueRNN_time_0_2')
