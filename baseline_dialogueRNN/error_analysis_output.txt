@@ -1,3 +1,317 @@
+incorrect Well Phoebe, we gotta do something!
+joy
+incorrect Oh God, Im so sorry.
+surprise
+incorrect Car accident.
+surprise
+incorrect The three losers.
+neutral
+incorrect Oh, poor Lily.
+neutral
+incorrect Okay, yknow what, you were right, you were right.
+neutral
+incorrect Yeah, I lost it.
+neutral
+incorrect No more Joey and Chans.
+neutral
+incorrect Oh, come on!
+anger
+incorrect I mean, I remember a time when
+neutral
+incorrect Why?
+surprise
+incorrect Can we please turn this off?
+joy
+incorrect I cant believe Im going to lose this job!
+anger
+correct Okay, Im sorry.
+correct I didnt mean to scare you.
+incorrect I broke it.
+neutral
+incorrect Hey, why are you mopping your ceiling?
+neutral
+incorrect Well its very unsettling.
+neutral
+incorrect Yeah.
+neutral
+correct Really stupid.
+incorrect Well, I-I guess I gotta go.
+neutral
+incorrect Sorry.
+neutral
+correct Im sorry Joey.
+incorrect Well, people!
+anger
+incorrect Im sorry.
+neutral
+incorrect No, I-I-I gotta go.
+neutral
+incorrect No. Sorry.
+neutral
+incorrect Its like the end of an era!
+anger
+incorrect No more J-man and Channies!
+anger
+incorrect Well, honey that was pretty obvious.
+neutral
+incorrect Im sorry!
+anger
+incorrect No-no, its not okay!
+anger
+incorrect Its not!
+anger
+incorrect I mean you were just Youre so incredible!
+anger
+incorrect I will!
+anger
+incorrect Hi! Its me.
+joy
+correct Im sorry I gotta cancel tonight baby
+incorrect Eh..., I dont, I dont know.
+neutral
+incorrect Oh, how did it go?
+neutral
+incorrect Yeah, maybe.
+neutral
+incorrect Any luck?
+neutral
+incorrect What is it? Hey!
+surprise
+correct Really its nothing. Im just
+incorrect I-I do though.
+neutral
+incorrect I do too.
+neutral
+incorrect Yeah, I know...  ..I'm I'm just not that bright either.
+neutral
+incorrect Of course not.
+neutral
+incorrect Im gonna give you my weeks notice.
+neutral
+incorrect Gunther, I quit.
+neutral
+incorrect Hi!
+joy
+incorrect Can I get some ice here?!
+surprise
+incorrect Oh uh, one of the writers.
+neutral
+incorrect Yeah, I know.
+neutral
+incorrect I'm gonna have to give him up.
+neutral
+defaultdict(<class 'int'>, {'neutral': 503, 'surprise': 136, 'fear': 8, 'sadness': 54, 'joy': 155, 'disgust': 13, 'anger': 118})
+incorrect Uhh, yes I did but there isn't. Okay, here we go.
+neutral
+incorrect Yeah, most of the damage is pretty mostly contained in the bedrooms.
+neutral
+incorrect Oh, how bad is it?
+surprise
+correct Everythings ruined. My bed. My clothes. Look at my favorite blue sweater.
+correct Do you really want to throw that all away over a room?
+correct You had to do it, didnt you? You couldnt just leave it alone.
+incorrect Okay, well cant you just try it one more time Ross? For me? For me?
+anger
+incorrect So, I guess this is over.
+neutral
+incorrect Well, y'know, you and me, it had to end sometime.
+neutral
+incorrect Because of the weekend, we had a fight.
+neutral
+incorrect Sure! I feel so bad for you. I broke my leg once too.
+anger
+incorrect Oh no, I-Im sorry, I guess we lost track of everybody after high school.
+neutral
+correct Oh  oh no just stopped to throw up a little bit.
+correct Oh come on, what am I gonna do, its been hours and it  won’t stop crying.
+incorrect We really werent great at being guys, but you know why?
+joy
+correct God, its gonna so weird like when I come home and youre not here.
+incorrect No more J and Cs.
+neutral
+incorrect Yeah but we wont be able to like get up in the middle of the night and have those long talks about our feelings and the future.
+neutral
+incorrect Because shes not gonna get to keep the babies.
+neutral
+incorrect Oh my God! We are throwing the most depressing baby shower ever!
+surprise
+incorrect Ross, please, I found the magazines!
+anger
+incorrect I know, I lied! I didnt want her to think I was a terrible mother! I cant even see my own baby!
+anger
+incorrect Because youre still seeing him and uh, hes a good guy.
+neutral
+incorrect Oh yeah! Yeah! Dont worry about me, Ill be fine!
+joy
+correct And to go from that to this, I just Plus, Id have to wait on all my friends.
+incorrect I can't believe you would say that!
+anger
+incorrect Will the stable boy never get the princess??
+surprise
+correct Look, the truth is, I haven't felt this    way about anyone since Rachel, ok?
+incorrect I didn't think I could ever love again.
+anger
+incorrect All right, so are we not having dinner at all?
+neutral
+correct I cant remember which sister.
+correct Im sorry your husband cheated on you.
+correct Try telling my wife that.
+incorrect Oh Im so sorry man! Is there anything I can do?
+surprise
+incorrect Leslie, now would be a
+neutral
+correct Well Im sorry, I thought you said it was okay.
+incorrect Well, maybe it wont work out. Maybe Ross wont like her personality.
+neutral
+incorrect Nooo, I had to return it to the costume place.
+neutral
+incorrect You remember not having sex in high school, right?
+neutral
+incorrect I can't remember the last time I got a girl to take care of my monkey.
+neutral
+incorrect And I don't even know how it happened.
+neutral
+correct I'm sorry, honey, I promise it will never happen again.
+incorrect Oh, I wish there was something I can do to make you feel better.
+neutral
+incorrect Well, it just hurts so bad. I uh
+neutral
+incorrect Ohh, Im sorry.
+surprise
+incorrect You cant fire him and dump him the same day, hell kill himself.
+anger
+incorrect Okay. But the question is whos gonna go first. Cause whoever goes second is the bitch.
+neutral
+incorrect Okay, good-bye. Good-bye.
+neutral
+incorrect I dont think Id be comfortable with any of my old lovers there.
+neutral
+incorrect Well, I-I gotta go break up with Bonnie.
+neutral
+incorrect Hes not gonna make it, hes stuck in Chicago.
+neutral
+incorrect Yeah well, Im-Im a slut.
+joy
+incorrect I'm sorry, man.
+surprise
+incorrect I can't do it.
+neutral
+incorrect All right, II have to ask.
+neutral
+incorrect Uh, it's 2:30 in the morning!
+anger
+incorrect Ohhh. Dont go.
+neutral
+incorrect No. No! No! No!
+anger
+incorrect Honey, honey, people are looking.
+neutral
+incorrect Yeah, um, Im, Im leaving now.
+neutral
+incorrect You cant leave! I have your shoe!
+anger
+incorrect Good-bye Chandler Bing.
+neutral
+incorrect Why?! Why?! He said hed call. Why hasnt he called?
+surprise
+incorrect And youre upset because you didnt make your best friend cry?
+anger
+incorrect Dont I deserve a few tears?!!
+anger
+incorrect I mean we-we told Joey, he cried his eyes out!
+anger
+incorrect Come on!
+anger
+correct Yknow I dont understand why they didnt cry. It was a beautiful speech.
+incorrect Hey!
+joy
+incorrect Ohh, yeah she really wouldve wanted to be there.
+neutral
+incorrect I cant believe were living here!
+anger
+correct Go and tell Rachel right now before Ross finds out.
+correct Look, it’s not that easy. She said she wanted to marry me. I  don’t want to hurt her.
+incorrect I didnt make it!
+anger
+incorrect You went through all this time and effort to make this tape for me!
+anger
+incorrect Really? Ive been thinking, this is crazy, I mean dont, dont you think we can work on this?
+neutral
+incorrect Ah, thats okay, thanks.
+neutral
+incorrect Look, I dont feel like dancing, I feel like having a drink. Okay?
+neutral
+incorrect Yeah, and it really freaked me out! And after a while I even tried to hurt you and it just spurred you on.
+anger
+incorrect Oo God!
+surprise
+incorrect No, you cant let this stop you from getting massages!
+anger
+incorrect Well, I don't know what else to do.
+neutral
+incorrect Ohh, sweetie!  Hey, I bet you anything that hes gonna call you again.
+joy
+incorrect Yeah, maybe, but I dont think I even care.
+neutral
+correct I dont think hes the one Im sad about.
+incorrect And I-I am just trying to figure out why.
+neutral
+incorrect Well, yeah, yknow how Ross and I were on again, off again, on again, off again?
+neutral
+incorrect I guess I just figured that somewhere down the road, we would be on again.
+neutral
+incorrect Again. Yknow what? I think we all did.
+neutral
+correct Oh, Monica. You are not still going over that thing.
+incorrect What. Oh no, you just rolled over the juice box.
+neutral
+correct Ive just been thinking about how my baby and I are gonna be all alone.
+incorrect Oh please, hell be with his real family, the twins and little miss new boobs.
+neutral
+incorrect Every moment is precious.
+neutral
+incorrect On no! No! Its not good-bye, Im not leaving until you get on that plane.
+joy
+incorrect Come on Treeger, dont say that.
+neutral
+incorrect Plus, it was, it was probably mostly my fault, anyway.
+neutral
+incorrect Youre right! Youre right. Dont say it.
+surprise
+correct Okay, nows not the time Joey. All right? You can yell at me tomorrow.
+incorrect Janice, what umm, what are you doing here?
+neutral
+incorrect Yknow, I wish I could get him to open up a little bit, share some feelings.
+neutral
+incorrect So I dont think I should do it anymore.
+neutral
+incorrect Yes, but I wanted you to want to live with me, but okay, if you're having so much fun over here
+neutral
+incorrect Well, that doesn't mean she can't look nice!
+anger
+incorrect Oh, my baby!
+surprise
+incorrect Im never gonna find a roommate, ever.
+neutral
+incorrect Aw come on Phoebe would you just think about it?
+surprise
+incorrect I mean, no, youre right.
+neutral
+incorrect But you-you understand how-how hard it is to forget about this.
+anger
+correct Ahh, I just got out of a big relationship, Im not looking for any thing serious.
+incorrect She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.
+neutral
+incorrect She says as time goes on, he's gonna start getting agressive and violent.
+neutral
+incorrect So, does that mean the audition is off?
+neutral
+incorrect It's ah, step-ity, step and jazz hands.
+neutral
+incorrect Whats the matter?
+neutral
+correct I dont know what it is, I just cant take a good picture.
+defaultdict(<class 'int'>, {'neutral': 626, 'surprise': 121, 'fear': 36, 'sadness': 116, 'joy': 196, 'disgust': 41, 'anger': 185})
 incorrect Oh, Bob, he was nothing compared to you. I had to bite my lip to keep from screaming your name.
 anger
 incorrect Oh, its bad. Its really bad. The only thing in there that isnt burned is an ass. Which I do
@@ -60,3 +374,8 @@ anger
 incorrect Hey dad, what's up?  Oh God. Ross, it's Nana.
 surprise
 defaultdict(<class 'int'>, {'neutral': 125, 'surprise': 22, 'fear': 5, 'sadness': 37, 'joy': 49, 'disgust': 13, 'anger': 40})
+correct Two very good points, look Ive known you both a long time, and Ive never seen either of you one/millionth as happy as youve been since youve got together.
+correct Well, I-I got this blinding pain in my stomach when I was lifting weights before, then I uh passed out and uh, havent been able to stand up since.
+incorrect Hey, you guys. Listen, Im sorry that I was hogging the game beforeOh my God! Your friends have some unfortunate initials!
+anger
+defaultdict(<class 'int'>, {'neutral': 21, 'surprise': 5, 'fear': 0, 'sadness': 3, 'joy': 9, 'disgust': 1, 'anger': 7})

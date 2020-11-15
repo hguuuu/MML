@@ -139,6 +139,7 @@ def time_wrong(time_low, time_high, fig):
     sns.heatmap(final_arr, annot=True, ax=ax, xticklabels=emotions, yticklabels=emotions)
     f.savefig(fig + '.png')
 
-# time_wrong(0, 2, 'fig2')
-# time_wrong(2, 6, 'fig3')
-time_wrong(6, 100, 'fig4')
+time_wrong(0, 2, 'dialogueRNN_time_0_2')
+time_wrong(2, 6, 'dialogueRNN_time_2_6')
+time_wrong(6, 100, 'dialogueRNN_time_6')
+time_wrong(10, 100, 'dialogueRNN_time_10')
