@@ -5,3 +5,4 @@ unimodal_visualization/textual_visualization/*.csv filter=lfs diff=lfs merge=lfs
 vis_features_openface/train_vis_30_intervals_aus.pickle filter=lfs diff=lfs merge=lfs -text
 vis_features_openface/train_vis_full_aus.pickle filter=lfs diff=lfs merge=lfs -text
 vis_features_openface/test_vis_full_aus.pickle filter=lfs diff=lfs merge=lfs -text
+vis_features_openface/train_vis_30_frames_aus.pickle filter=lfs diff=lfs merge=lfs -text
