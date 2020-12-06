@@ -2,3 +2,6 @@ unimodal_visualization/textual_visualization/*.txt filter=lfs diff=lfs merge=lfs
 unimodal_visualization/textual_visualization/*.pkl filter=lfs diff=lfs merge=lfs -text
 unimodal_visualization/textual_visualization/*.p filter=lfs diff=lfs merge=lfs -text
 unimodal_visualization/textual_visualization/*.csv filter=lfs diff=lfs merge=lfs -text
+vis_features_openface/train_vis_30_intervals_aus.pickle filter=lfs diff=lfs merge=lfs -text
+vis_features_openface/train_vis_full_aus.pickle filter=lfs diff=lfs merge=lfs -text
+vis_features_openface/test_vis_full_aus.pickle filter=lfs diff=lfs merge=lfs -text
