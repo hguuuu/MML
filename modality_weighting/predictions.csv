@@ -1,0 +1,870 @@
+Utterance,Emotion,Pred_Emotion,Dialogue_ID,Utterance_ID
+"Alright, fine, you go ahead and you do that, alright Ross.",anger,neutral,5,8
+Ohh!,surprise,neutral,82,6
+"Okay.  Uh, Ross and Rachel. Rachel and Ross. Thats been one heck of a see-saw hasnt it?",neutral,neutral,74,7
+I really do.,neutral,neutral,36,3
+Of course I am. I just have to make a call.,surprise,neutral,36,6
+Really? You think so?,fear,joy,78,7
+You won't even taste it?,neutral,neutral,91,7
+"Come on guys, I-I really want this guy to like me.",fear,neutral,68,7
+Hi Ross!,joy,neutral,7,9
+"Yeah? Well, there's a lot of things Carol never did before I came along.",anger,neutral,49,3
+"Your other student, was you!",anger,surprise,72,10
+And,neutral,neutral,1,9
+"Listen, the number that you gave me 853-5   That is their old number!",anger,neutral,105,2
+Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!,disgust,neutral,109,2
+"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",sadness,anger,66,5
+"You guys, Joey just saw Janice kissing her ex-husband.",surprise,neutral,46,4
+What-what are you doing?! Are youOkay thats not funny! Just stop horsing around!,anger,joy,78,3
+Okay.,neutral,neutral,74,11
+Joey Tribbiani.,neutral,neutral,82,12
+Ow!,anger,neutral,108,3
+Come on in.,neutral,neutral,52,2
+"Thanks for having me over, you guys.",neutral,neutral,69,2
+Ohh!!,surprise,surprise,92,3
+Yes! Shes gonna help us take care of the baby! Woo-hoo.,joy,neutral,7,5
+Do them!!,anger,neutral,32,9
+I want to see what he wants first.,neutral,neutral,68,4
+"Joey, you dont have to count down every time we kiss.",joy,neutral,53,7
+"With the, with the lilies, and-and the song, and the stars!",joy,neutral,63,10
+Okay.,neutral,neutral,74,6
+"Hi, sorry I'm late, I couldn't find my bearings.",neutral,neutral,86,3
+Yes! Youre the person who checked out my book?!,surprise,neutral,4,12
+Then what?,neutral,neutral,22,7
+What are you gonna do?,neutral,neutral,18,9
+"Okay Bob listen uhh, Im the reason you didnt get the job up here.",sadness,neutral,14,5
+Hello.,neutral,neutral,97,2
+Why?!,surprise,surprise,27,2
+"Im sorry, I just cant go to the hospital lookin like this.",disgust,neutral,36,11
+Okay.,neutral,neutral,48,5
+Pizza!! We like Pizza!! Get out!!!,anger,disgust,51,6
+"I know! Although, you did tell an awful lot of jokes.",anger,neutral,95,6
+In a minute!!,anger,neutral,56,6
+"Hey, Joey, what would you do if you were omnipotent?",neutral,neutral,54,7
+Ooh!,surprise,surprise,108,7
+"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",anger,neutral,22,6
+Ken Adams!!,surprise,surprise,85,16
+"Oh, its just like a bloodbath in here today.",sadness,neutral,48,7
+Probably kill myself!,sadness,neutral,54,8
+"Hey, uh can I get a little piece of that cake?",neutral,neutral,51,5
+How scary is that?,surprise,neutral,13,7
+Youll,neutral,neutral,30,18
+Toby dont.,sadness,neutral,14,6
+All in good time my love.,neutral,disgust,6,2
+"Okay, yknow what? Can I, can I talk now?",joy,neutral,74,17
+Oh!!,surprise,anger,48,6
+"Oh, I was kinda hoping that was it.",sadness,neutral,108,8
+"Well, we are ready to try anything.",neutral,neutral,32,11
+Oh. Oh my God.,surprise,neutral,26,6
+On the touchy.,neutral,neutral,1,8
+Wheres Ben?,neutral,neutral,47,3
+"No no no, believe me.",anger,surprise,19,6
+"Yeah, but this  isn't the face of a person who trusts a person.",anger,neutral,25,2
+Sure! That would be nice.,joy,neutral,44,5
+"Its a good thing I didnt do it, because it sounds like it wouldve been a very expensive wedding.  Okay, good night",neutral,neutral,63,16
+Yknow what Greg?,anger,surprise,105,10
+"Oh, no-no-no-no-no-no!!",fear,neutral,45,9
+Okay.,neutral,neutral,97,6
+"But when I return, 200 years from now, youll be long gone.",sadness,neutral,56,13
+Yknow what?,neutral,neutral,74,13
+He's gonna stick around and talk to the daughter he abandoned!,sadness,anger,84,5
+I know!!!,joy,neutral,97,4
+Okay.,neutral,neutral,74,12
+"Ahh.  Ooh, is this a ah, is this a bad time?",surprise,surprise,47,5
+This is all your fault.,anger,sadness,19,2
+"Well I uh, I skipped forth grade.",neutral,neutral,4,14
+"Look, um, I think we should talk about what happened on the terrace.",neutral,neutral,69,9
+"Okay, okay. Its James Brolin. James Brolin is the father of my baby.",neutral,neutral,27,7
+Yep! Grab a plate.,joy,neutral,58,7
+Oo-oo!,joy,neutral,81,2
+Were so sorry.,sadness,neutral,16,10
+It just doesn't matter how I feel.,sadness,neutral,69,13
+The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,fear,anger,18,4
+Yeah!!,joy,neutral,13,3
+I heard it from my friend Irene who heard it from some guy!,neutral,neutral,85,13
+"Im sorry. Ugh, Pheebs, you were, you were right about her. Yknow, she",sadness,neutral,16,14
+"Oh, come on!",sadness,joy,28,6
+You said...,neutral,neutral,76,15
+Wendy bailed. I have no waitress.,sadness,neutral,29,2
+This is disgusting!,disgust,neutral,20,5
+My apothecary table!!!,surprise,neutral,92,4
+"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",neutral,neutral,57,9
+Have you seen Chandler?!,neutral,neutral,18,2
+Come on. It doesn't taste bad.,neutral,joy,94,3
+"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",sadness,neutral,19,14
+"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",anger,neutral,40,6
+"Okay, you go do it! Ill come back to that set! Ill meet more actors! Ill meet em all!",joy,neutral,40,10
+"Oh well, no harm, no foul.",neutral,anger,2,5
+No.,sadness,neutral,113,9
+"Oh, god, I knew it, that I freaked you out.",sadness,neutral,69,16
+"Watch, watch.",joy,neutral,99,2
+"Hey, where's his thing?",surprise,neutral,13,10
+Oh... that's too bad. Bye bye.,sadness,neutral,29,3
+"Yeah, he doesnt like me.",anger,neutral,82,3
+"Okay, theres an herbal tea you can drink.",neutral,neutral,32,12
+Im the lead in Mac and C.H.E.E.S.E.!!,anger,neutral,82,18
+"Well, they never have any paper in there y'know. So my rule is no tissue, no tuschy.  Well, if everybodys going.",neutral,neutral,45,7
+Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,anger,disgust,11,10
+Did you just make that up?,surprise,neutral,63,12
+"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",joy,neutral,13,18
+"Its how I imagined I uh, I would ask you to marry me.",neutral,neutral,63,14
+"You-you make sure Monica does not find out, okay?",neutral,neutral,66,8
+"Anyway, theres this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",neutral,neutral,67,5
+Regina Philange.,neutral,neutral,95,4
+No-ho-ho!,joy,neutral,65,5
+"Oh yeah?  Hi, Ken Adams, nice to meet you.",neutral,neutral,95,3
+"I dont know, something either trees or diseaseRalph mumbles a lot.",neutral,neutral,67,7
+"Wait, wait, wait!",joy,neutral,104,2
+The thing is its kinda on the Q.T.,neutral,neutral,82,15
+"Sure, whats up?",neutral,neutral,97,21
+"Yeah, exactly.",neutral,neutral,77,18
+Ityknow what?,neutral,neutral,69,12
+"Yeah, so, please don't fire me for doing this.",sadness,neutral,69,19
+"Oh God, oh God, its sowed on though.",fear,neutral,48,3
+Jenny! That is so Jenny!,joy,neutral,105,4
+Uhh.,neutral,neutral,4,5
+"Okay. Oh wait, wait-wait, youre not gonna come with me?",sadness,neutral,36,5
+Its really sweet and-and tender.,joy,neutral,8,14
+"Hey, where are Monica and Rachel anyway?",neutral,neutral,108,9
+"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",neutral,neutral,26,4
+"Okay, absolutely!",joy,neutral,24,4
+"You know, I, you know, can't do this.",fear,neutral,34,6
+Well we left ours in Monicas bedroom.,neutral,neutral,64,3
+"Oh what are you kidding? Shes gorgeous, its all Rachel.",joy,surprise,77,3
+Tag?,neutral,joy,69,3
+Look!,surprise,neutral,104,4
+Yeah.,neutral,neutral,108,14
+I was talking to myself! Youre going down!,anger,joy,78,8
+"Well, what kind of guy are you looking for?",neutral,neutral,67,10
+"Oh, I dont know man. I havent talked to her in like ten years.",neutral,neutral,106,5
+Okay.,neutral,neutral,36,7
+"Hey, guess what Im doing tonight.",neutral,neutral,61,2
+Say next Saturday?,neutral,neutral,105,6
+"Yeah, but I love you more.",joy,neutral,103,2
+That would be no.,disgust,neutral,94,2
+"Relax, its not like were forking.",joy,neutral,96,3
+I thought you said those jokes were funny. Joke! Joke! Joke!,surprise,neutral,95,7
+You know he's gay?,neutral,surprise,21,2
+"What?  So what are you going to do? I mean how, how are you going to tell Chandler?",surprise,neutral,46,5
+"Don't make me do this again, I don't like my voice like this.",anger,neutral,49,13
+"Okay, I know it sounds crazy, but I think it might work. Yknow? The only problem is, Carls acting is",neutral,neutral,51,2
+"3, 2,",neutral,neutral,53,6
+"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",fear,neutral,11,5
+"Uh, its from yore. Like the days of yore. Yknow?",neutral,neutral,110,3
+Ahhhh!!,surprise,joy,99,5
+My fault?! You threatened the judge!,anger,neutral,17,3
+And it,neutral,neutral,113,5
+Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,sadness,surprise,12,4
+"When the revolution comes, I will have to destroy you all.",neutral,neutral,59,3
+How bad is this?,fear,neutral,18,6
+"No, Rachel never pees in public restrooms.",neutral,neutral,45,6
+"Oh God, I know I'm a pathetic loser.",sadness,neutral,90,6
+What?,neutral,neutral,61,3
+It's a long story but the things    you just said really made my day!,joy,disgust,31,9
+Oh what? Like your Mr. Cop!,anger,joy,10,6
+"If you want to, we can do it one more time.",neutral,neutral,74,14
+"No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.",neutral,neutral,89,4
+"I mean shes a very nice woman, but there is no way we can take eight weeks of her.",anger,neutral,7,7
+Everyone knows who you are.,neutral,neutral,19,12
+Its Chandlers way of pretending he didnt take mime.,neutral,neutral,106,3
+"Well, if you see him, tell him to pack his bags. We are going to Minsk.",neutral,neutral,80,3
+Okay!,joy,neutral,44,10
+"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",fear,anger,104,9
+I know!,sadness,joy,113,13
+"Umm, yeah, actually, Susans gonna be home any minute, its kinda an anniversary.",joy,neutral,47,6
+Whats going on?,neutral,neutral,12,2
+"Yeah, no one talks like that!",anger,neutral,10,5
+"Jen, I know this may sound a little But uh, would you maybe wanna grab a cup of coffee sometime, or",neutral,neutral,44,4
+I know Monica's worst Thanksgiving.,neutral,neutral,28,4
+"Oh no-no-no, Im there.",neutral,neutral,58,3
+"Well, Phoebe I thought IdYeah, what the hell.",neutral,neutral,88,5
+"Uh, actually I find Marions views far too progressionist.",neutral,neutral,4,7
+I need to talk to you!,joy,neutral,97,20
+Hey Mon!,joy,neutral,57,5
+"Kori, I know this is a big surprise for you.",joy,neutral,31,8
+"Oh, Rachel and I have appointments to get our hair cut.",neutral,neutral,68,2
+"Yeah, I know but",neutral,neutral,58,2
+"Really, Rachel, I was thinking of you the whole time.",sadness,neutral,26,9
+..Excuse me?,surprise,neutral,54,9
+"Okay, obviously you dont know much about the U.S. government.",neutral,neutral,97,17
+No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,anger,fear,73,2
+The point is I...,anger,neutral,5,4
+"Come on, you saw the way he ran out of here!",sadness,neutral,84,4
+"And then apart, and then together, and then apart, and now we have a baby.",sadness,neutral,77,12
+He had C.H.E.E.S.E.,neutral,neutral,82,4
+"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",joy,sadness,87,4
+"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",disgust,neutral,76,14
+So this is it? Victor?,sadness,neutral,56,7
+"Oh, fine! Take his side!",anger,neutral,72,18
+"Uh, this is too weird.",disgust,neutral,34,7
+"I don't need this right now, OK.",anger,neutral,5,5
+"Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",neutral,joy,72,15
+Oh sure.,neutral,neutral,74,18
+"Hey Joey. Hi. Hey, buddy.",neutral,neutral,54,6
+I'll see you later.,neutral,neutral,44,9
+Give it. Give it.,neutral,neutral,48,4
+"Okay, okay, come on, you can do it. You can do it!",joy,neutral,13,2
+"Or maybe he-he was writing to tell her that-that hes changed his name, yknow? Tell Monica Im sorry.",neutral,neutral,66,2
+"Aw! Hey, do you think that Susan person is her lover?",neutral,disgust,23,8
+"Someone I can learn from, someone-someone whos different than me.",neutral,neutral,9,6
+"Ugh, how can you even ask that question?!",surprise,surprise,107,3
+"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",joy,neutral,28,2
+Are you sure he didn't break it because it really hurts?,neutral,neutral,89,3
+We know how tough those parent/teacher conferences can be.,neutral,neutral,68,11
+Hi. Hi.,neutral,neutral,21,5
+All right.,neutral,neutral,24,5
+No! Why?,neutral,neutral,18,3
+"Well, maybe its so big because the house was built on radioactive waste.",joy,neutral,97,11
+Am I too late?!,neutral,joy,13,17
+"No, no hes not.",neutral,neutral,46,3
+"Cause they, 'cause they thought it was a boy, but Chandler's a girl!",surprise,neutral,13,14
+The woman I love is having a baby today. I've been waiting for this just as much as you have.,anger,neutral,19,5
+"Yeah, it's kinda sweet, sorta like, uh...",neutral,neutral,94,4
+"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes.""",disgust,neutral,54,5
+Hello.,neutral,neutral,97,19
+"All right, now, I'm going to get back to my bucket.",neutral,neutral,109,6
+"Oh well listen, anyway shes directing the new Al Pacino movie. You gotta get me an audition!",joy,neutral,106,4
+Wow! Whoa-whoa whats under the covers?,surprise,joy,15,4
+Who run away together and they get caught in this big rainstorm.,neutral,neutral,8,12
+Tonight? You-you didn't say it was going to be at nighttime.,surprise,neutral,3,2
+They musta read the sonogram wrong.,surprise,neutral,13,13
+What?!,surprise,neutral,92,5
+"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",neutral,neutral,34,3
+"Besides yknow, nothing goes with Bing.",neutral,neutral,103,3
+Why?! Why not?!,surprise,surprise,84,3
+"Well, I was thinking about that and I, I think the best way would be, to not.",neutral,neutral,46,6
+Ooohhhh!!,surprise,neutral,99,3
+I left my guitar in their apartment.,sadness,neutral,6,5
+This is so great.,joy,disgust,19,16
+"Hey, my Fathers house does that!",surprise,neutral,99,6
+"I'm doing just fine! God, Tiffany, you smell so great!",joy,neutral,20,2
+"So don't do it, it's fine. You don't have to do it just because Susan does it.",neutral,neutral,34,9
+Shell drive us totally crazy.,disgust,anger,7,8
+"Yeah! And! And, it was the easiest 400 bucks Ive ever made.",joy,neutral,63,4
+Where?,neutral,neutral,90,3
+Really?!,surprise,anger,2,3
+"Check it out, hes winning!  Petes winning!",surprise,anger,37,3
+"Well, next time your massaging him, you should try and distract yourself.",neutral,neutral,1,12
+"Well, of course I do! My good friend Joey over here.",joy,neutral,67,3
+"So it's kinda like, you're, you know.",neutral,neutral,76,12
+"Since Rachel and I were doing really, were doing really well right now.",sadness,neutral,77,16
+Im gonna work on that.,neutral,neutral,16,5
+Yeah! Its weird. But the thing is need to find a date.,surprise,neutral,67,9
+"Well for the regular guy, its bad, but Chandler, Oh dear God!",fear,anger,18,7
+I mean Id-Id be okay with that.,neutral,neutral,74,15
+"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",neutral,neutral,78,6
+I'm still alive!!,joy,neutral,31,7
+"Hello! I'm in the front seat, okay? I'm Gary's partner!",neutral,neutral,10,9
+"Ohh, you guys, remember that cute client I told you about? I bit him.",neutral,neutral,1,6
+Oh! Ooh! Oh Monica! Its so beautiful.,joy,joy,97,3
+"Oh, I know.  Yknow, just-just talking about it is getting me kinda",neutral,neutral,62,4
+Sooo!! Anyway...,neutral,joy,47,10
+With Carol?  Oh.,surprise,neutral,22,11
+Of course well help! Yeah! Well be here!,joy,neutral,68,9
+I am,neutral,neutral,30,7
+No I didn't!,fear,neutral,104,13
+"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, Im gonna want to meet her.",neutral,neutral,56,15
+Were good.,neutral,neutral,83,6
+"I put a clip on one side, which seems to have stopped the curling.",neutral,neutral,93,4
+Excuse me.,neutral,neutral,82,11
+My characters catholic and he falls in love with this Jewish girl.,neutral,neutral,8,11
+"I still dont get it, we didnt do anything wrong.",surprise,neutral,95,5
+"But, youve got things you have to do now, and so do I.",sadness,neutral,56,11
+"Oh, okay that explains it.",neutral,neutral,57,10
+"Oh! I thought you guys got married in uh, January?",surprise,surprise,47,7
+So we go into this barn and undress each other and hold each other.,neutral,neutral,8,13
+What?!,surprise,surprise,85,6
+Yknow what? I think thats enough for now. Yeah. I dont want to be over rehearsed.,neutral,neutral,30,12
+Yeah! You can hook it up to your TV,joy,neutral,71,4
+"I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",neutral,sadness,57,11
+What?,surprise,neutral,83,3
+I forgot my paper.,neutral,neutral,44,11
+"No it isnt, I ate that.",neutral,neutral,64,2
+"I know. I know. I know. I know, and if you try to make it more you might wreck it.",neutral,neutral,77,17
+"That proposal, at the planetarium",neutral,neutral,63,7
+Why would they take away our keys?,surprise,neutral,6,9
+All in good time.,neutral,neutral,6,3
+Oh! Oh!,disgust,disgust,37,7
+Colorado.,neutral,neutral,69,7
+"We are good, interesting, funny people with",anger,neutral,105,11
+I would!,anger,neutral,98,4
+Noooo!!,sadness,surprise,112,3
+Oh sure!  Noo!,joy,disgust,92,2
+"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",joy,neutral,76,7
+These,neutral,neutral,11,9
+"""Baddest man in the whole damn town.""",neutral,neutral,72,17
+"Look, you have done enough! Okay? You have to stop this now.",anger,neutral,60,2
+"Im a professor here uh, RossGeller.",neutral,neutral,4,10
+"Okay Ross, can I uh, can I ask you something?",sadness,neutral,63,5
+Would you please go?,joy,neutral,98,3
+"And so Im gonna get on this spaceship,  and Im gonna go to Blargon 7 in search of alternative fuels.",sadness,neutral,56,12
+"Hey, I'm more cop than you two!",anger,neutral,10,7
+Yeah.,joy,neutral,13,20
+Does Ralph mumble when youre not paying attention?,neutral,neutral,67,8
+"And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.",neutral,joy,31,4
+"Oh, you've tasted it.",anger,neutral,94,9
+Do you guys know any cute guys?,neutral,neutral,67,2
+"Well, I, umm",fear,neutral,65,9
+"But youre still moving in together, right? Because my ad came out today.",neutral,neutral,9,2
+"Oh God, kindergarten flashback.",surprise,neutral,13,12
+"Oh-oh, youre-youre fellow scholars.",surprise,anger,4,2
+Well maybe it was all of your questions.,neutral,neutral,95,9
+I know! I know! And he totally freaked out and I cant find him anywhere!,fear,neutral,18,8
+And in about five seconds youre gonna see why.,neutral,neutral,85,2
+How do you know about that story?!,surprise,neutral,85,11
+Can we see her?,neutral,neutral,93,5
+Chandlers gone again!,surprise,neutral,12,3
+"Oh, please, you wanted to get caught.",anger,disgust,26,12
+"No. No, she told me his name was Ken Adams.",neutral,neutral,85,15
+"Oh, well... Maybe we could...",neutral,neutral,79,3
+"And, and!",joy,joy,99,4
+Oh shoot!,surprise,neutral,6,4
+Who am I?,anger,neutral,19,13
+"Ok, Monica. I just have to know one thing. Did you go with her to",sadness,neutral,26,16
+Really?,surprise,surprise,69,18
+"Thank you, Joey.",neutral,neutral,1,14
+"Oh yeah, youre solid. Yeah, youre just no me.",neutral,neutral,30,11
+Wow! I usually get to know a girl a little better before I let her spoon me.,surprise,neutral,96,2
+Done.,joy,neutral,29,10
+Hes sleeping.,neutral,neutral,47,4
+"I dont have a key, they took mine to give to you.",neutral,neutral,6,7
+"Well, Im never gonna listen to you again, thats for sure!",anger,neutral,18,10
+"Oh, I cant watch this.",fear,surprise,37,2
+If youre anxious there are a few ways to help things along.,neutral,neutral,32,8
+Divorced mens club.,sadness,neutral,16,18
+You must be a little uncomfortable.,neutral,neutral,32,4
+Okay.,neutral,neutral,36,2
+"My marriage, I think my marriage is um, is kinda over.",sadness,neutral,23,2
+OkayOop! Too late! Im leaving! Come on Chandler lets go!,anger,neutral,88,4
+I was doing great with Julie before I found out about you.,anger,joy,5,2
+Then do Iceberg!,anger,neutral,72,2
+"Listen, I ah, I gotta say good bye, and-and I gotta say it quick cause this is killing me.",sadness,neutral,56,9
+"Ok, who wants to hear something ironic?",neutral,neutral,49,14
+"Just let me finish, okay?",sadness,neutral,113,3
+"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",surprise,disgust,97,16
+Twelve dollars an hour.,neutral,neutral,29,6
+Some guy!!,surprise,surprise,85,14
+"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",joy,neutral,10,3
+"Oh, let's not tell this story.",sadness,neutral,28,5
+"Wait, Rach! Where's the other one?",neutral,neutral,11,2
+"Honey, we've been trying to have a baby for over a year.",neutral,neutral,79,8
+"And, ah, you know, your fooling around with her.",joy,neutral,76,6
+It still could last a little while longer.,neutral,neutral,32,7
+"When we exit should we walk, or run, or prance,    or stroll...",neutral,neutral,87,3
+Its not that kind of anniversary.,neutral,neutral,47,8
+"Yeah? Wow! Yknow, that this thing has speakers in the headrest!",surprise,neutral,71,2
+So?,neutral,neutral,91,2
+Yeah?,neutral,neutral,9,4
+So Im screwed.,joy,neutral,103,4
+"Yeah, I love you. Okay, bye!  Hi!",joy,neutral,108,10
+"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",anger,disgust,5,3
+"I just have one question for you,    ehm...",neutral,neutral,87,2
+Its just if-if we got together again and it didnt work outI could never do that to Emma.,sadness,neutral,77,13
+Jennys been giving it out since they moved!,anger,neutral,105,3
+What is the big deal?,anger,neutral,91,4
+"My god, you guys, I don't believe you.",anger,neutral,49,9
+"Aw, God Ross. Oh.",sadness,neutral,23,13
+Sorry.,sadness,neutral,89,6
+And whats more different than me. A guy whos,neutral,neutral,9,7
+"Okay, okay, but dont worry, because we also have cereals, muffins, waffles,",neutral,neutral,58,9
+"In fact, I have some time right now.",neutral,neutral,74,16
+That is not true!,anger,joy,26,13
+"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",sadness,neutral,19,18
+"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",neutral,neutral,74,5
+No. Shes going to live with us for eight weeks.,neutral,neutral,7,3
+"Oh, I'm sorry, I'm really sorry.",sadness,neutral,89,5
+It is? Really?,surprise,neutral,113,6
+What do they put something in the water in this place?,neutral,neutral,77,15
+"Look, weve been together.",sadness,neutral,77,10
+Son of a bitch!,anger,surprise,50,2
+Know your audience!,joy,neutral,79,5
+What about my questions?,neutral,neutral,95,10
+"And yknow, even if they break up again, youd better not let him in your sad mens club!",anger,neutral,16,17
+"But,  youve got one more apology to make, all right, youve got to apologize to Mary-Angela.",neutral,neutral,24,3
+"When this day is over, you get to go home with the baby, ok?",anger,neutral,19,9
+"Uh, what?",surprise,surprise,7,4
+"What song was that, Pheebs?",neutral,neutral,57,2
+Im not crazy about babies. Im crazy about us.,joy,surprise,83,2
+Noooooo!!,fear,neutral,92,6
+"""Yknow, harm can it do if you go and put your name down?""",neutral,neutral,18,11
+"LookOkay, Im just gonnaIm gonna have to go find him and bring him back!",neutral,anger,66,6
+Toby! Im not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,anger,neutral,14,8
+What?! I didn't touch a guitar!,surprise,neutral,72,5
+Y'know none of my other student thought I was stupid.,anger,neutral,72,9
+"Yknow, he hums when he pees!",anger,neutral,16,7
+"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",neutral,neutral,21,4
+"No, no, he hasn't been around.",neutral,joy,80,2
+Its not like its porn!,neutral,neutral,8,2
+"No, it's been three nights in a row.",neutral,neutral,57,8
+"I mean, Ill go to the airport with ya, I-I wanna say good bye.",sadness,neutral,56,2
+"Youre about 80 percent effaced, so youre on your way.",neutral,neutral,32,6
+Oh my God.,surprise,neutral,30,5
+"Joe! Im glad I found ya, I got an audition for ya!",joy,surprise,82,13
+"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",joy,neutral,28,7
+But I don't wanna do it in a cup!,sadness,anger,79,10
+Ah!  Oh.,surprise,neutral,47,9
+Hmph.,neutral,neutral,76,5
+Yeah.,neutral,neutral,15,3
+"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",sadness,neutral,69,17
+It wasreally wonderful!,joy,neutral,63,11
+WhatYoure not serious.,surprise,neutral,7,6
+Well you all know that I'm a pacifist so I'm not interested in war in any way.,neutral,neutral,59,2
+"Yeah, and yknow what? I dont give a tiny rats ass.",anger,neutral,16,12
+G-sharp.,neutral,neutral,72,3
+Every day is Lesbian Lover Day.,neutral,neutral,19,15
+Whats the charity?,neutral,neutral,67,6
+Hey Mon! Want some pancakes?,joy,neutral,58,5
+Thats the magic story you use when you wanna have sex!,anger,anger,85,10
+"With the belly-button ring? Oh, muhawa!",joy,neutral,76,8
+"Shes still in there enjoying her fake party and uh, its too late to do any of the things I had planned, so",neutral,neutral,41,2
+"I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",anger,neutral,29,9
+It's,neutral,neutral,28,10
+"Which would be fine, except you totally are.",neutral,neutral,77,7
+Good.,anger,neutral,5,12
+"So when, when do you leave?",neutral,neutral,80,8
+Because I lose her stuff!,anger,neutral,11,12
+Sorry!,sadness,neutral,89,7
+This ship has sailed.,anger,neutral,5,7
+"Honey, wait. We only did it once. It didn't mean anything to me.",sadness,joy,26,7
+"Thats all right, we-we dont need you. In fact, hey Im over it already.",anger,neutral,16,11
+"Dont worry about me, Im a robot! Im just a machine!!",sadness,sadness,30,3
+"So in your whole life, you've only been with oneoh.",surprise,neutral,22,12
+What did you just do?,surprise,surprise,91,5
+Yeah!,joy,anger,2,4
+"Okay, maybe people give out fake numbers, but they dont give out fake names.",anger,neutral,95,2
+"Its the lead in a series, Mac and C.H.E.E.S.E.",neutral,neutral,82,17
+Oh just say it Kyle!,surprise,neutral,16,2
+Minsk. It's in Russia.,neutral,neutral,80,5
+Gimme the bottle.  Gimme the towel.,anger,neutral,94,11
+Okay?,neutral,neutral,36,8
+Ew.,disgust,joy,15,7
+"Yeah, sweetie.",neutral,neutral,113,7
+"You know, Junior Miss is where I started. Oh, I had to sleep with the",neutral,neutral,65,3
+"And your like 'Mom, get outta here!'",anger,neutral,76,10
+"That was Alice's mom, she said she left five hours ago. She should be here by now!",fear,neutral,108,12
+"One thing you gotta know, is that I will never forget you.",sadness,neutral,56,10
+"Phoebe, that is juice, squeezed from a person.",neutral,neutral,91,3
+Whats this?,surprise,neutral,97,8
+"I mean, the fact that you are here means more    to me than if this room were filled with people!",joy,neutral,31,10
+"All right, hang on!",neutral,neutral,112,4
+"Yeah, see.. you took mine. Chandler, what about you?",neutral,neutral,54,3
+No I didn't!,fear,neutral,104,11
+"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",neutral,neutral,44,2
+What?!,surprise,neutral,40,4
+What is it?,neutral,neutral,22,2
+"Oh my God, who is it?!",surprise,neutral,27,5
+"Im sorry, who are you?",surprise,neutral,4,9
+"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",sadness,neutral,69,14
+My first time with Carol was...,neutral,neutral,22,8
+"I am not horsing around, okay? I am Porsching around.",joy,neutral,78,4
+Okay.,neutral,neutral,69,10
+We got another one!,surprise,neutral,13,5
+"Oh, me too.",neutral,neutral,62,5
+"I know, because youre not in that place.",neutral,neutral,77,6
+What?! Wait-wait-wait! The handsome man was about to enter!!,surprise,neutral,20,7
+"No, I know.",neutral,neutral,77,5
+I dont know.,neutral,neutral,15,5
+I'm not reading this!,disgust,neutral,20,6
+No! I wont leave you!,fear,neutral,30,2
+I said ',neutral,neutral,76,16
+No!,disgust,surprise,91,8
+"No, I mean I was really acting my ass off.",joy,neutral,30,9
+I mean she-she thinking everything Oh thatsnow me.,sadness,neutral,77,14
+But I wont have aged at all.,neutral,neutral,56,14
+Y-You're going?,joy,joy,69,4
+Ill do it without you!,anger,neutral,30,14
+Celebrate.,neutral,neutral,89,10
+Thank you.  Oww!!!! God!,surprise,neutral,36,9
+"Ah yeah, but now its Susan and me in Mexico and the hostages coming home.",neutral,neutral,47,2
+Some days it's all I can think about.,neutral,neutral,86,2
+"Yeah, hes the reason I didnt get that big",neutral,neutral,51,4
+"Hello, baby. Hello, hello.",joy,neutral,34,10
+"It, it's too late, I'm with somebody else, I'm happy.",anger,neutral,5,6
+We really need to take those tests?,sadness,neutral,79,7
+"Look, weve always talked about having babies someday.",neutral,neutral,83,4
+"Ok, this  is the face of a person who, you know, doesn't trust a person.",anger,neutral,25,3
+This is totally your fault!,anger,surprise,17,2
+"Okay, Im gonna get your coat and then Ill-Ill put you in a cab.",neutral,neutral,36,4
+"Well, if you don't, I will.",anger,neutral,98,2
+"Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",surprise,sadness,22,13
+"Oh.  Wow!  Huh.  Boy!  Well, someones been doing their homework.",surprise,neutral,62,2
+Tell her to wear her own earrings.,anger,neutral,11,8
+"Im sorry, for the last time, why arent you two together again?",neutral,neutral,77,4
+Right here!,anger,joy,72,13
+What did you say to him?,neutral,neutral,84,6
+"I know it's in the apartment, but I",neutral,neutral,11,6
+I dont need you or anybody else!,anger,neutral,30,15
+"I think we do. Why dont we go inside?  Look uh, I know why youre here.",sadness,neutral,74,3
+"Actually, theyre things you can do. Just some home remedies, but in my experience Ive found that some of them are quite effective.",neutral,neutral,32,10
+"Ross, where did you get this?!",surprise,neutral,92,7
+What are you talkin about? I never left you! Youve always been my agent!,surprise,sadness,2,2
+I bet this will work!,joy,neutral,104,6
+That she left you?,surprise,neutral,22,3
+Rachel said that!,surprise,neutral,18,12
+"Well, nobody wants a ghost. But youve got one, because the house is sitting on an ancient Indian burial ground.",neutral,joy,97,15
+"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",sadness,neutral,93,6
+I didnt tell him. I didnt know if you were telling people. This is back when I thought Kash was still people.,neutral,neutral,40,7
+"Oh, we have our babies.",joy,neutral,13,21
+"Yeah, right.  Sure!",anger,neutral,26,8
+And is this in case the house sneezes?,surprise,neutral,97,12
+Did you hear that? Kori Weston had a crush on me!!,joy,neutral,31,12
+Dont be so negative! Good God! Isnt it possible that Sorry is sitting in there  right now?!,anger,neutral,66,4
+"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",joy,disgust,13,8
+Joke. Joke. Blah! Blah!,anger,neutral,95,8
+"I want to talk to that bastard, see what his problem is.",anger,neutral,14,4
+"Although, I might need some convincing.",neutral,neutral,65,8
+"Well, now I do!!",surprise,neutral,23,9
+It was really fun being married to you tonight.,joy,sadness,63,3
+"Yes, yes I do.",neutral,neutral,110,4
+You made pancakes?,surprise,neutral,58,6
+I bet it has a great story behind it too.,joy,neutral,110,6
+But having a dove place the ring on your finger wouldve been no problem?,anger,neutral,63,2
+January first,neutral,neutral,80,9
+What?,neutral,neutral,30,6
+Ooh! Ah! Okay!,fear,surprise,15,9
+"Thats a dog, every house should have a dog.",joy,neutral,97,9
+"Oh my God, Phoebe,",anger,neutral,92,8
+Not one that can pee on the roof.,surprise,neutral,97,10
+"I may have to, I hate to do it, but Im the star!",anger,neutral,82,8
+"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",sadness,neutral,25,4
+I never meant for you to find out!,sadness,joy,26,11
+Are you seriousReally?! Its in such good condition.,surprise,neutral,15,2
+I will think about it.,neutral,neutral,63,19
+"Hi.  Umm, I think theres something that we really need to talk about.",joy,neutral,74,2
+What? Oh my God! Im gonna miss you so much!,sadness,joy,113,10
+"Im not saying it has to be right now, but Im starting to think that we can handle it.",neutral,neutral,83,5
+"Look, Carol never threw me out of a room before you came along.",anger,neutral,49,2
+Even if the sidecar had a windscreen so your hair wouldnt get messed up?,neutral,neutral,63,18
+And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.,joy,neutral,19,19
+Not you Joey.,neutral,neutral,59,4
+Cantaloupe juice.,joy,neutral,94,5
+"Oh, so you just sort of happened to leave it in here?",anger,surprise,26,14
+"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",fear,neutral,10,2
+"Yknow, you look nothing like I wouldve thought. Youreyoure so young.",surprise,neutral,4,13
+You,neutral,neutral,54,12
+Little Leslie is here!,joy,surprise,13,4
+"Yes, you did!",surprise,neutral,104,12
+Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,anger,neutral,72,16
+"We got the grant. Three years, all expenses paid.",joy,neutral,80,7
+"Look, I'm sorry, all right.",sadness,neutral,26,10
+"Ross Geller, why do I know that name? Its uhWait!  Did you write this?",surprise,joy,4,11
+Well Rachels not here!,anger,disgust,18,13
+But only in the moment. So do ya wanna kiss again?,joy,joy,53,2
+No youre not! Not to me!,anger,neutral,30,4
+"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",joy,joy,60,3
+I do know.,neutral,neutral,16,8
+Where?!,surprise,neutral,1,7
+I find Marions views far too progressionist.,neutral,neutral,4,8
+You've tasted it? You've tasted it.,surprise,neutral,94,7
+No.,neutral,neutral,29,5
+"You can keep saying it, but it won't stop being true.",neutral,neutral,94,10
+Bob!,sadness,neutral,14,7
+Okay.,neutral,neutral,76,2
+"So, eight days late huh?",surprise,neutral,32,2
+What? II just figured since youre pregnant youre not gonna be seeing people.,surprise,neutral,40,5
+How do,neutral,neutral,85,12
+Are you kidding?!,surprise,surprise,63,9
+Youll see!!,anger,disgust,30,17
+"Well, what am I going to tell Monica? She wants to wear them tonight!",fear,neutral,11,7
+As in Barbara Streisands husband James Brolin?,surprise,neutral,27,8
+Ten dollars an hour.,neutral,neutral,29,4
+"Uh, so, where did you say you're from again?",neutral,neutral,69,6
+Would you relax? I know what I am doing. This is how he wears it.,anger,sadness,25,5
+"Uh we didn't, uh we didn't get the chance to talk.",neutral,neutral,69,5
+"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",joy,neutral,53,8
+A,neutral,neutral,7,2
+You get to be the baby's father.,neutral,neutral,19,11
+"Listen also were uh, were watching the game here Saturday night, if people want to come over.",neutral,neutral,58,10
+"I mean look, that-that one night we had was fun andand certainly passionate, but dont you think its better if we just stayed friends?",sadness,neutral,74,9
+Ow!,surprise,neutral,45,3
+Chandler's a girl!,surprise,sadness,13,11
+"Perhaps,  perhaps Dr. Chester Stocks musings on the Smiledon Californicus?",neutral,neutral,4,4
+Uh huh.,neutral,neutral,94,8
+Which we can celebrate later.,neutral,neutral,89,9
+"Well, why dont you just get him fired?",neutral,neutral,82,7
+"Now, theres two reasons.",neutral,neutral,1,3
+I dont want a ghost.,fear,neutral,97,14
+"This one doesn't hurt eitherOoh, yes it does!",surprise,neutral,108,2
+Now Im so happy.,joy,joy,85,7
+How's the hair?,neutral,neutral,93,2
+"No-no, wait!",neutral,anger,113,2
+That she left you for another woman that likes women?,neutral,neutral,22,5
+Im gonna miss you!,sadness,neutral,113,11
+Plus it sounds really great.,neutral,neutral,8,10
+"No, no, thats the ghost for the attic.",neutral,neutral,97,13
+Wow!,surprise,anger,82,14
+"Aww, man, now we wont be bank buddies!",sadness,neutral,1,2
+I just wanna clarify this: are you outing Mr. Peanut?,neutral,neutral,21,3
+"No, actually I thought about it when, when we were going out.",neutral,neutral,63,13
+Ow!,anger,neutral,108,4
+At his apartment. Is this juice?,neutral,neutral,90,4
+Uh-oh.,fear,neutral,78,5
+"Yeah, Susan.",neutral,neutral,49,12
+"Eh, just a tad.",neutral,neutral,32,5
+"I'm not gonna lie to you, Ross, it doesn't look good.",sadness,neutral,93,3
+What about her whining and her constant need for attention?!,anger,neutral,16,4
+Well you can let me in later.,neutral,neutral,6,6
+Chandler's a girl!,surprise,neutral,13,15
+"Wow! Oh my God, well if theyve ripped off our table ours must be much more than one and fifty dollars!",anger,surprise,92,9
+You said you loved me! I can't believe this!,surprise,neutral,104,10
+The,neutral,neutral,51,3
+You do?,surprise,neutral,74,4
+"Okay, you know, you know when your in bed, with a woman.",joy,neutral,76,4
+Yknow?,neutral,neutral,82,9
+Jody!,surprise,neutral,26,2
+Okay.,neutral,neutral,45,2
+"Okay, get ready to see some beggin!",joy,joy,85,4
+You wanna explain that?,neutral,neutral,19,17
+"Hey, it's not like it sounds.",neutral,neutral,28,9
+"It's just, it's just the luckiest baby in the whole world.",joy,neutral,19,21
+Where does that leave me?,sadness,neutral,19,10
+Im an idiot.,disgust,joy,23,6
+"So, Im here, ready to play.",joy,neutral,97,5
+"Yeah, were gonna go.",neutral,neutral,16,13
+What?!,surprise,surprise,24,8
+"Okay umm, the week after that?",joy,neutral,105,8
+Im gonna make it on my own!,anger,neutral,30,16
+"Oh Ross youre so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",neutral,neutral,78,2
+Ross did I ever tell you about the time that I went backpacking through Western Europe?,neutral,neutral,85,3
+"Oh, y'know Joey, you are sick!",disgust,neutral,20,4
+"This is a serious, legitimate movie.",neutral,neutral,8,3
+Not even if Carol's breast had a picture of a missing child on it.,disgust,neutral,91,10
+"Cookie, now you can punch him!",anger,neutral,24,7
+How're you doing?,sadness,neutral,93,7
+Okay.,neutral,neutral,76,3
+"Ah AhGet out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marions views on evolution?",anger,neutral,4,6
+"Ok, where am I talking to, here?",neutral,neutral,34,2
+"So long, Vic!",sadness,surprise,56,16
+"Hey, is, is, is Chandler here?",neutral,neutral,46,2
+"Its Bob actually. Hey, you work up here, can you tell me where this Chandler",neutral,neutral,14,2
+"This is supposed to be, like, the greatest day of my life, y'know?",anger,sadness,19,3
+Minsk?,surprise,neutral,80,4
+Really?!,surprise,surprise,37,4
+I got my s's back!,joy,neutral,89,8
+"No, y'know what dont close it  cause the... keys...are in there.",neutral,neutral,45,8
+"Well, I think we've all learned something about who's disgusting and who's not.",anger,neutral,109,4
+"Anyway, it wasnt the robot, it was the guy who controls him.",neutral,neutral,82,2
+Hey!,surprise,neutral,97,18
+Im checking out the restaurant with Pete.,neutral,neutral,61,4
+"I just figured yknow, after living with you itd be an interesting change of pace to have a female roommate, yknow?",neutral,neutral,9,5
+The Way You Look Tonight,joy,neutral,60,5
+"Itll kill him. I mean itll, itll just kill him.",fear,neutral,46,8
+"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",anger,surprise,90,5
+"I mean shoulda seen it, I mean Carol and Id be out and shed, shed see some beautiful woman, and, and shed be Ross y'know look at her, and Id think, God, my wife is cool!",sadness,anger,23,7
+Seriously. What?!,surprise,surprise,74,10
+"Yeah, I guess it is.",sadness,neutral,56,8
+Eh?,neutral,neutral,109,5
+"Sure, New Years Eve is only two weeks away. Can you wait?",neutral,neutral,53,3
+What?! Well he never said that to me!,surprise,joy,27,9
+Come on.,neutral,neutral,49,8
+My chair heals itself.,neutral,neutral,71,5
+"No one has been waiting for this as much as I have, ok?",anger,neutral,19,7
+Okay. Wait! Wait!,neutral,sadness,42,2
+"Okay, maybe ask this guy.",neutral,anger,50,3
+"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",neutral,neutral,62,3
+"No, I know!",surprise,anger,1,10
+"Oh, you came on to Ross!",surprise,neutral,85,5
+"Because hell know what to do?  Oh my God, youre a genius!",joy,joy,48,2
+Me neither.,neutral,neutral,53,5
+"Rachel Karen Green, where's the other earring?!",anger,neutral,11,4
+Theres a limit to how many sandwiches I can eat off the floor.,neutral,neutral,82,10
+"I know, And then all of the sudden your Mom pops into your head.",anger,neutral,76,9
+Im sorry.,sadness,neutral,23,10
+Ohh! Thats great!,joy,neutral,65,2
+Its moving.,fear,neutral,15,6
+It's my new perfume. Why don't you come closer where you can,neutral,neutral,20,3
+Oh no-no-no! Oh-no!  No! No! Emily!,anger,neutral,42,4
+Right.  Or you might get everything youve wanted since you were fifteen.,neutral,neutral,77,19
+"Oh! Oh, I think Im gonna throw up a little bit. What did you say?",disgust,disgust,40,2
+Of course you don't sweetie. You're brand new.,neutral,neutral,28,3
+"Oh my God, I can't believe I have two-two children.",surprise,surprise,13,6
+What?! Joey got a turkey stuck on his head?!,surprise,neutral,28,8
+And it's not even born yet.,sadness,neutral,19,20
+Arent you gonna go?,neutral,neutral,45,4
+"Oh right, because youre so capable of change.",anger,neutral,16,6
+"Well, what period is it from?",neutral,neutral,110,2
+How do you figure that?,neutral,neutral,10,8
+"Well, that wouldve been very hard to say no too.",neutral,neutral,63,15
+"Look, maybe I need to try a real teacher!",anger,neutral,72,12
+"Look he knows he did a terrible thing and I believe him, hes sorry.",sadness,neutral,24,2
+"What?! I wh-, whats wrong?",fear,surprise,36,10
+But you didn't!,joy,neutral,31,6
+Its stillIts got a tail! Get it out of here! Get it out of here!!,fear,neutral,15,8
+I said no.,neutral,anger,40,3
+"I know, I know it was stupid.",sadness,neutral,63,8
+"Okay, how about Sunday?",neutral,neutral,105,7
+Yeah.,neutral,neutral,32,3
+Hey!,surprise,neutral,58,4
+"So just stop all the yelling, just stop it!",anger,neutral,49,11
+"I mean, no-no-no-no-no, dont you worry, Im sure with your qualifications you wont need to sleep with some guy to get that job.",neutral,neutral,65,7
+I cant say because hes famous.,neutral,neutral,27,4
+"Um, I'm not.",neutral,neutral,69,15
+"Of your last two boyfriends, Richard didnt want to have kids, and from the looks of it, now Pete cant.",neutral,neutral,37,10
+I know!,fear,neutral,18,5
+"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",joy,neutral,9,3
+Yeah.  What d'you wanna do tonight?,neutral,neutral,79,2
+"Oh. Yknow, he hums while he does other stuff to.",neutral,neutral,16,15
+The week after that?,joy,neutral,105,9
+Oh no! Why?,surprise,neutral,23,3
+Yeah.,neutral,neutral,63,6
+We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,sadness,neutral,31,2
+"Oh, Im sorry. Thank you Chandler.",joy,neutral,67,4
+"Ok, would people stop drinking the breast milk?",disgust,neutral,91,6
+"Ohh, Monica, I am so excited for you.",joy,disgust,61,5
+"Wait a minute, hold the phone! Youre not Elizabeths dad?!",surprise,neutral,68,6
+"Yeah, well, y'know maybe you just need to try a little harder!",anger,neutral,72,11
+"Well, you ripped the paper out of the court reporters machine!!",anger,neutral,17,4
+"Wait, if thats his favourite area, why is he being so mean to it?",surprise,neutral,37,8
+"Cause Carols a lesbian.  And, and Im not one. And apparently its not a mix and match situation.",sadness,neutral,23,4
+"I'm only eating the skin, so the chicken's up for grabs.",neutral,neutral,109,7
+The actor who has the part doesnt know he might be fired.,neutral,neutral,82,16
+"You know, Rachel, when you ran out of your wedding, I was there for you.",anger,neutral,29,8
+Not even if you just pretend that it's milk?,neutral,neutral,91,9
+Emily.,neutral,neutral,42,3
+Hi Monica!,joy,neutral,57,3
+Flights in an hour. I-I gotta go.,sadness,neutral,56,4
+We do?,surprise,neutral,68,3
+"God, oh its just perfect!",joy,neutral,110,5
+Thank you.,neutral,neutral,72,8
+What?,neutral,neutral,22,9
+Well thats true.,neutral,neutral,8,8
+Why not?,sadness,joy,27,3
+"Phoebe, come on, you have to tell us.",anger,neutral,27,6
+Okay?,neutral,neutral,66,7
+Nope.,neutral,neutral,57,7
+"Oh my God, has she slept at all?",surprise,joy,57,6
+"No, but you're questioning my method!",anger,neutral,72,6
+"Phoebe, dont get upset!",sadness,neutral,88,3
+That she likes women?,neutral,neutral,22,4
+"Yeah, youre great! Okay, lets take it from",joy,joy,30,8
+"Hey listen umm, how would you like to get together?",neutral,neutral,105,5
+"I don't know, I just kinda ran into him last night.",fear,neutral,90,2
+I feel stupid.,sadness,neutral,34,8
+"Oh my God! I dont believe it! Oh, you poor bunny.",surprise,neutral,23,5
+Pass it! Pass it!,joy,neutral,70,2
+Well this doesnt even smell like opium.,disgust,neutral,92,10
+No. Thank you.,neutral,neutral,45,5
+Oh yeah!,joy,neutral,58,11
+I just found out that Elizabeths dad wants to meet me.,sadness,neutral,68,5
+"Yeah, I thought I was pretty good too.",joy,neutral,30,10
+Hey Mon!,joy,neutral,57,4
+Vic! Vic!,anger,neutral,56,5
+Oh! My number is on there.  Give me a call.,joy,joy,44,7
+Really?!,surprise,neutral,65,4
+You know.... You don't know!,surprise,neutral,76,13
+Hi roomie!,joy,neutral,7,10
+I mean its the end of an era!,sadness,neutral,113,12
+No.,neutral,neutral,53,4
+"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",anger,neutral,92,11
+"Joey, uh-",surprise,neutral,54,11
+"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?",neutral,neutral,84,2
+Exactly.,neutral,neutral,94,6
+Thanks!,joy,neutral,68,10
+You really think so?,surprise,neutral,107,2
+Were gonna give it another try.,joy,neutral,16,3
+"Okay, keep saying it!",joy,joy,13,16
+Yeah.,neutral,neutral,65,6
+"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",fear,neutral,37,6
+Youre right. Maybe I shouldnt even go on the call back.,neutral,neutral,8,6
+What?,surprise,surprise,74,8
+"This isnt something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",neutral,neutral,113,4
+Youve got it.,neutral,neutral,24,6
+You were with Julie?,neutral,neutral,26,3
+And you know what the funny thing is?,neutral,neutral,19,8
+This is not going to work.,anger,anger,104,5
+"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",anger,neutral,76,11
+There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.,anger,disgust,49,10
+I think    it's a good idea to find out if everything's ok. Just a few routine tests.,neutral,neutral,79,9
+And I am only naked in one scene.,neutral,neutral,8,9
+Okay.,neutral,neutral,32,13
+"I mean weve been together seven years, shes the only woman whos ever loved me, and the only woman Ive-Ive ever....",sadness,sadness,23,12
+"Oh what, you-you want both of them?",surprise,fear,11,3
+Seven years.,sadness,neutral,23,11
+No. Really?,surprise,neutral,71,3
+What?! They took mine to give to you!,surprise,neutral,6,8
+Thats all Im askin,neutral,neutral,63,20
+"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",anger,joy,19,4
+Fine!,anger,neutral,30,13
+No-o-o!!,fear,neutral,37,5
+"It makes him miss the bowl, but whatever.",disgust,neutral,16,9
+"Ah, I-I never should have said what I said.",sadness,neutral,69,11
+"Im pregnant.  Ross?  Ross?  Okay, whenever youre ready.  And youre the father by the waybut you got that",anger,neutral,74,19
+"And then, one thing led to another and, before I knew it, we were...shopping.",neutral,neutral,26,5
+Here!,anger,disgust,72,14
+"Mon. I wish I could, but I've made plans to walk around.",neutral,neutral,29,7
+And the nudity is really important to the story.,neutral,neutral,8,4
+Just aim for the bump.,neutral,neutral,34,4
+"Kidding! God, I feel wild today!",joy,neutral,65,10
+I saw you checking me out during the game last night.,neutral,joy,111,2
+"O-o-o-okay, how did it go? Tell me everything.",neutral,neutral,99,7
+Hey.,neutral,neutral,1,4
+What are you doing here?,surprise,joy,21,6
+"Look, Monica",neutral,neutral,104,3
+I think it means he freaked out and left!,surprise,neutral,66,3
+"Joey, you cant keep this to yourself, if you know about this, you have to tell him.",neutral,neutral,46,7
+Ow!,anger,surprise,108,6
+Thats what you say about porn.,neutral,neutral,8,5
+I thought so many times about calling him and asking him out.    I guess I really missed my chance.,sadness,joy,31,5
+What are you talking about?!,surprise,surprise,85,8
+"Yeah thats true. Yeah, you love her. You always have. You have a child together. There is no right answer.",neutral,neutral,77,9
+"Ok, trying to turn me on by making a mess?",joy,joy,79,4
+"Ok, ok, ok, ok, here goes.",neutral,neutral,34,5
+Hey!,joy,neutral,1,5
+Yeah! Yeah! Yeah! Like-like when Im doing something exciting and I dont wanna get,joy,neutral,1,13
+You are so great! I love you!,joy,anger,104,7
+"What exactly were you looking for, hmm?",neutral,anger,4,3
+We have our babies?,surprise,joy,13,19
+"Good-good, dont tell him. Dont tell him. Just have him call me okay?",fear,neutral,40,8
+I will give you a call.,neutral,neutral,44,8
+Were really good.,joy,neutral,83,7
+knock over the sandwich right when I was reaching for one!,anger,neutral,82,5
+"Well, the movie was great, dinner was great, and theres nothing like a cool, crisp New York evening.",neutral,neutral,99,8
+"Well, its pretty much the gist. Well, except for the poem. You read the poem, right?",neutral,neutral,112,2
+"No-no, thank you.",neutral,neutral,1,15
+But then I realized where would a mouse or a opossum get the money to make the phone call.,joy,joy,57,12
+"No, I'm not questioning it, I'm saying it's stupid!  What?!",anger,fear,72,7
+"Oh, the mixed tape.",neutral,neutral,60,4
+"I-Im sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",anger,neutral,1,11
+Goodnight,neutral,neutral,63,17
+"Oh, it has a name?",surprise,neutral,88,2
+"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",neutral,neutral,84,7
+"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",joy,neutral,54,2
+Whats a Movement class?,neutral,neutral,106,2
+"I brought a bunch of stuff for the house, so check it out. Ha-ha.",joy,neutral,97,7
+Where are you Vic?,neutral,neutral,56,3
+What?,surprise,neutral,104,8
+"Uhh yeah. Yeah, its  right, right down there.  Right there, yeah. Can I ask you why?",neutral,neutral,14,3
+"Ah, what good are you.",neutral,neutral,69,8
+"Hey, if Little Joey's dead, then I got no reason to live!",sadness,neutral,54,10
+Umm?,neutral,neutral,44,6
+"I'm sorry, you were fighting.",sadness,neutral,19,22
+"Well, this is ironic.",surprise,neutral,37,9
+Did it ever occur to you that I might just be that stupid?,anger,neutral,26,15
+"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",neutral,neutral,54,4
+It-it would really help me out if you guys were here to make me look good.,sadness,neutral,68,8
+"I mean were not, were not gonna live together anymore?",sadness,anger,113,8
+"Oh, honey, dont worry. She's gonna make it on time.",neutral,neutral,108,13
+Itsits complicated okay?,sadness,neutral,77,8
+"Well, you could wait til I go to the dentist, maybe",neutral,neutral,46,9
+It was my,neutral,neutral,22,10
+"All right, he's coming. He's coming!",joy,neutral,13,9
+G,neutral,neutral,72,4
+Jen.,neutral,neutral,44,3
+I know where Minsk is.,neutral,neutral,80,6
+"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",joy,neutral,8,7
+You used the Europe story!,joy,neutral,85,9
+It's a witness not a perp. And no one talks like that!,anger,neutral,10,4
+You are just the sweetest.,joy,neutral,60,6
+"Yeah, we're better off without them.",anger,neutral,16,16
+Ow!,anger,surprise,108,5
+Okay?,neutral,neutral,77,11
+"No-no, stay right there.  Gettin closer.",neutral,neutral,58,8
+"You sick freak, who does that? I can't believe I had a crush on    you!",anger,neutral,31,11
+"Well let me think about that, while I remove my pants!",joy,surprise,39,2
+I'm sure that would mean a lot to him.,neutral,sadness,31,3
+"Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",neutral,neutral,79,6
+"Rach look, I really dont think thats such a great",sadness,neutral,40,9
+Hi!,joy,anger,108,11
+"Nope, got it and I got yours  too.",neutral,neutral,64,4
+I'm Monica. I'm disgusting. I stalk guys and keep their underpants.,sadness,neutral,109,3
+Why not?,neutral,anger,11,11
