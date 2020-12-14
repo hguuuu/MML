@@ -1,4 +1,4 @@
-from unimodal_text_dataset import UnimodalTextDataset
+from unimodal_dataset import UnimodalDataset
 import torch
 import numpy as np 
 from torch.utils.data import Dataset, DataLoader
@@ -8,10 +8,10 @@ import pickle
 import sklearn.metrics as metrics
 
 class UnimodalVisualModel(nn.Module):
-    def __init__(self, word_embedding_dim, hidden_dim1, hidden_dim2, num_layers, dropout):
+    def __init__(self, embedding_dim, hidden_dim1, hidden_dim2, num_layers, dropout):
         super(UnimodalVisualModel, self).__init__()
         
-        self.lstm = nn.LSTM(input_size=word_embedding_dim, hidden_size=hidden_dim1//2, num_layers=num_layers, dropout=dropout, bidirectional=True)
+        self.lstm = nn.LSTM(input_size=embedding_dim, hidden_size=hidden_dim1//2, num_layers=num_layers, dropout=dropout, bidirectional=True)
         self.linear1 = nn.Linear(in_features=hidden_dim1, out_features=hidden_dim2)
         self.relu = nn.ReLU()
         self.linear2 = nn.Linear(in_features=hidden_dim2, out_features=7)
@@ -39,7 +39,7 @@ class UnimodalVisualModel(nn.Module):
         return embed
 
 def train(model, epochs, batch_size, optimizer):
-    data = UnimodalTextDataset('unimodal_visual_train_embeddings.pkl')
+    data = UnimodalDataset('unimodal_visual_train_embeddings.pkl')
     dataloader = DataLoader(data, batch_size=batch_size, shuffle=True, drop_last=True)
 
     loss_func = nn.CrossEntropyLoss()
@@ -71,7 +71,7 @@ def train(model, epochs, batch_size, optimizer):
 def evaluate(model, batch_size):
     model.eval()
 
-    data = UnimodalTextDataset('unimodal_visual_dev_embeddings.pkl')
+    data = UnimodalDataset('unimodal_visual_dev_embeddings.pkl')
     dataloader = DataLoader(data, batch_size=batch_size, drop_last=True)
 
     all_preds = []
@@ -87,9 +87,6 @@ def evaluate(model, batch_size):
         
         all_preds += preds
         all_true += true
-
-    # print(all_preds)
-    # print(all_true)
 
     return metrics.f1_score(all_true, all_preds, average='weighted')
 

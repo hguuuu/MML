@@ -3,7 +3,7 @@ import csv
 import torch
 import numpy as np
 
-# use BERT embeddings
+# use opensmile embeddings
 pkl_file = '../MELD.Features.Models/features/audio_embeddings_feature_selection_emotion.pkl'
 csv_file = '../MELD.Raw/train_sent_emo.csv'
 embeddings_final = 'unimodal_audio_train_embeddings.pkl'

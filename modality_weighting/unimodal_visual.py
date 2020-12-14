@@ -3,18 +3,15 @@ import csv
 import torch
 import numpy as np
 
-# use BERT embeddings
-# pkl_file = '../MML/vis_features_openface/train_vis_30_intervals_aus.pickle.1'
+# use 30 frame embeddings
 pkl_file = '../MML/vis_features_openface/train_vis_30_frames_aus.pickle'
 csv_file = '../MELD.Raw/train_sent_emo.csv'
 embeddings_final = 'unimodal_visual_train_embeddings.pkl'
 
-# pkl_file = '../MML/vis_features_openface/dev_vis_30_intervals_aus.pickle'
 # pkl_file = '../MML/vis_features_openface/dev_vis_30_frames_aus.pickle'
 # csv_file = '../MELD.Raw/dev_sent_emo.csv'
 # embeddings_final = 'unimodal_visual_dev_embeddings.pkl'
 
-# pkl_file = '../MML/vis_features_openface/test_vis_3_35_intervals_aus.pickle'
 # pkl_file = '../MML/vis_features_openface/test_vis_30_frames_aus.pickle'
 # csv_file = '../MELD.Raw/test_sent_emo.csv'
 # embeddings_final = 'unimodal_visual_test_embeddings.pkl'

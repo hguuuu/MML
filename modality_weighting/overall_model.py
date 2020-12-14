@@ -1,4 +1,4 @@
-from bimodal_dataset import BimodalDataset
+from trimodal_dataset import TrimodalDataset
 import torch
 import numpy as np 
 from torch.utils.data import Dataset, DataLoader
@@ -19,10 +19,10 @@ import csv
 # https://github.com/declare-lab/conv-emotion/blob/master/COSMIC
 
 class FinalModel(nn.Module):
-    def __init__(self, word_embedding_dim, hidden_dim1, hidden_dim2, num_layers, dropout):
+    def __init__(self, embedding_dim, hidden_dim1, hidden_dim2, num_layers, dropout):
         super(FinalModel, self).__init__()
         
-        self.lstm = nn.LSTM(input_size=word_embedding_dim, hidden_size=hidden_dim1//2, num_layers=num_layers, dropout=dropout, bidirectional=True)
+        self.lstm = nn.LSTM(input_size=embedding_dim, hidden_size=hidden_dim1//2, num_layers=num_layers, dropout=dropout, bidirectional=True)
         self.linear1 = nn.Linear(in_features=hidden_dim1, out_features=hidden_dim2)
         self.relu = nn.ReLU()
         self.linear2 = nn.Linear(in_features=hidden_dim2, out_features=7)
@@ -57,7 +57,7 @@ def get_emotion_weight(emotion, embedding, modality, text_model, audio_model, vi
     return vector2[emotion], new_embed
 
 def train(model, epochs, batch_size, optimizer, text_model, audio_model, visual_model):
-    data = BimodalDataset('unimodal_text_train_embeddings.pkl', 'unimodal_audio_train_embeddings.pkl', 'unimodal_visual_train_embeddings.pkl')
+    data = TrimodalDataset('unimodal_text_train_embeddings.pkl', 'unimodal_audio_train_embeddings.pkl', 'unimodal_visual_train_embeddings.pkl')
     dataloader = DataLoader(data, batch_size=batch_size, shuffle=True, drop_last=True)
 
     loss_func = nn.CrossEntropyLoss()
@@ -139,7 +139,7 @@ def train(model, epochs, batch_size, optimizer, text_model, audio_model, visual_
 def evaluate(model, batch_size=1):
     model.eval()
 
-    data = BimodalDataset('unimodal_text_dev_embeddings.pkl', 'unimodal_audio_dev_embeddings.pkl', 'unimodal_visual_dev_embeddings.pkl')
+    data = TrimodalDataset('unimodal_text_dev_embeddings.pkl', 'unimodal_audio_dev_embeddings.pkl', 'unimodal_visual_dev_embeddings.pkl')
     dataloader = DataLoader(data, batch_size=batch_size, shuffle=True, drop_last=True)
 
     all_preds = []
@@ -195,7 +195,7 @@ def evaluate(model, batch_size=1):
 def eval_emotion(model, batch_size=1):
     model.eval()
 
-    data = BimodalDataset('unimodal_text_test_embeddings.pkl', 'unimodal_audio_test_embeddings.pkl', 'unimodal_visual_test_embeddings.pkl')
+    data = TrimodalDataset('unimodal_text_test_embeddings.pkl', 'unimodal_audio_test_embeddings.pkl', 'unimodal_visual_test_embeddings.pkl')
     dataloader = DataLoader(data, batch_size=batch_size, shuffle=True, drop_last=True)
 
     all_preds = []
@@ -294,10 +294,10 @@ if __name__ == "__main__":
     visual_model = torch.load('models/visual_model.pt')
 
     # with original embeddings
-    # model = FinalModel(word_embedding_dim=10602, hidden_dim1=4096, hidden_dim2=512, num_layers=1, dropout=0.2).double()
+    # model = FinalModel(embedding_dim=10602, hidden_dim1=4096, hidden_dim2=512, num_layers=1, dropout=0.2).double()
 
     # with embeddings from unimodal models
-    # model = FinalModel(word_embedding_dim=640, hidden_dim1=256, hidden_dim2=128, num_layers=1, dropout=0.2).double()
+    # model = FinalModel(embedding_dim=640, hidden_dim1=256, hidden_dim2=128, num_layers=1, dropout=0.2).double()
     
     # if torch.cuda.is_available():
     #     model.cuda()
